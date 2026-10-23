@@ -60,4 +60,4 @@ Enables data-driven customer relationship decisions.
 Helps businesses monitor churn-related performance indicators.
 
 **Screenshot**
-Dashboard Preview_()
+![Dashboard Preview]_(https://github.com/dubeyrashmi253-png/Customer-Churn-Analysis-Dashboard/blob/main/Customer%20Churn%20Dashboard.png)_
