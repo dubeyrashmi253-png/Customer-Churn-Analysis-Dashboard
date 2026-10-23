@@ -12,12 +12,16 @@ The project transforms customer data into interactive visualizations that suppor
 
 **3. Tech Stack**
  
-• 📊 Power BI Desktop – Main data visualization platform used for report creation. 
-• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data. 
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic. 
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation. 
 
 **4. Data Source**
+
 The raw dataset used for this project was acquired from Maven Analytics. The data was used to perform analysis, identify trends, evaluate key performance indicators (KPIs), and develop interactive visualizations in Power BI. 
 
 **5. Features / Highlights**
@@ -45,8 +49,12 @@ The insights can help businesses investigate possible causes of churn and develo
 
 **Business Value:**
 
-Improves visibility into customer churn and retention. 
-Helps identify customer segments requiring further attention. 
-Supports customer retention planning. 
-Enables data-driven customer relationship decisions. 
+Improves visibility into customer churn and retention.
+
+Helps identify customer segments requiring further attention.
+
+Supports customer retention planning.
+
+Enables data-driven customer relationship decisions.
+
 Helps businesses monitor churn-related performance indicators.
