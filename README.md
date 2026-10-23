@@ -58,3 +58,6 @@ Supports customer retention planning.
 Enables data-driven customer relationship decisions.
 
 Helps businesses monitor churn-related performance indicators.
+
+**Screenshot**
+Dashboard Preview_()
